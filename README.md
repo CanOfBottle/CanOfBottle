@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CanOfBottle
 - 👀 I’m interested in Cybersecurity. It seems very interesting, but there is so much to learn, and such a broad topic. I don't know any of it! 
-- 🌱 I’m currently learning Python and a bit about Linux. All the linux stuff I have been it just terminal stuff.
+- 🌱 I’m currently learning Python and a bit about Linux. All the linux stuff I have seen it just terminal stuff.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - I'm on twitter that I just started under the same name. I don't really tweet right now, just follow some people in hopes to learn.
 
